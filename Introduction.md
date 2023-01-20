@@ -39,11 +39,11 @@ Let's consider a problem here ==>
 **Problem**:
 Write an algorithm to calculate an employee's gross pay
 
-Solution:
-Step 1: Get the number of hours the employee worked
-Step 2: Get the hourly pay rate.
-Step 3: Multiply the hours by pay rate
-Step 4. Display the results.
+Solution:<br>
+Step 1: Get the number of hours the employee worked<br>
+Step 2: Get the hourly pay rate.<br>
+Step 3: Multiply the hours by pay rate <br>
+Step 4. Display the results. <br>
 
 ---
 
