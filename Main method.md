@@ -31,3 +31,23 @@ public class GrossPayCalculator{
 ## Implementation: (Printing text in Java)
 - To print a line in Java, we use the command **System.out.println()** 
 - Inside the set of parentheses we specify what we would like to print.
+```java
+public class GrossPayCalculator{
+    public static void main(String[] args){
+        System.out.println("Hello World!!");
+    }
+}
+```
+
+- In programming, printing "Hello World" is a common first task, so let's do that. Within quotation marks, we'll type "Hello World."
+- and at the end of the Parenthes we will add **semi-colon** _;_ 
+<img width="456" alt="Screen Shot 2023-01-22 at 5 20 03 PM" src="https://user-images.githubusercontent.com/63767834/213943527-66a79726-fb3e-4e8d-9ca4-b2b0e782258c.png">
+
+### Note:
+- A statement is essentially one instruction. 
+```java
+System.out.println("Hello World");
+```
+
+- So system.out... is one statement that's saying to printing a string, which is a Java construct for text, to the console. And the semicolon is used to end a statement in Java.
+- 
