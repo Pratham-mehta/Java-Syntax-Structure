@@ -11,7 +11,7 @@ package gross_calculator;
 
 public class GrossPayCalculator{
     public static void main(String[] args){
-        System.out.println("Hello Everyone");
+        //Write code here
     }
 }
 ```
@@ -29,3 +29,5 @@ public class GrossPayCalculator{
 - Later on we study more about functions or methods in detail.....Right now, remember that there is a main method as defined in the code segment above.
 
 ## Implementation: (Printing text in Java)
+- To print a line in Java, we use the command **System.out.println()** 
+- Inside the set of parentheses we specify what we would like to print.
