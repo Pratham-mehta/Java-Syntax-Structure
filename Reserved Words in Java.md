@@ -47,3 +47,8 @@ public class ReservedWordsExample {
 - The following are more examples of reserved words.
 
 _**abstract, if, private, this, double, implements, throw, boolean, else, import, public, throws, break, return, byte, extends, int, short, true, false, case, interface, static, try, catch, final, long, void.**_
+
+---
+
+<img width="1012" alt="image" src="https://user-images.githubusercontent.com/63767834/213946524-06035537-af89-4968-b904-0b77ac9a2cc2.png">
+
