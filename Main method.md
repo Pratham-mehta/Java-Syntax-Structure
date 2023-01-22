@@ -50,4 +50,21 @@ System.out.println("Hello World");
 ```
 
 - So system.out... is one statement that's saying to printing a string, which is a Java construct for text, to the console. And the semicolon is used to end a statement in Java.
-- 
+
+**Always remember every statement in java ends with semi-colon**
+
+## Conclusion
+- Great now we have a  class with a main method that contains one statement. Let's run this class.
+- To run this program for the first time, right click anywhere within the program, 
+![image](https://user-images.githubusercontent.com/63767834/213943814-afcbf3c2-6f16-4f92-8df1-22d78459740b.png)
+
+- and then choose this option to run.
+![image](https://user-images.githubusercontent.com/63767834/213943901-82f5e11f-1b6b-4495-8887-cebb3c55db90.png)
+
+
+- Notice a console window now opens and it prints out the sentence "Hello World" just like we asked it to. 
+<img width="2179" alt="image" src="https://user-images.githubusercontent.com/63767834/213943974-7dab74b2-7b7c-4235-8069-79992ff06ed6.png">
+
+
+
+### Congrats. We have our first Java program. 
