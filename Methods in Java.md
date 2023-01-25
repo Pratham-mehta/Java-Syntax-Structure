@@ -47,3 +47,7 @@ public static void main(String[] args){
 
 
 - The return statement will return a value which matches the return type specified in the header.
+- **Return** is a reserved word in Java.
+
+
+#### This is the anatomy of the method
