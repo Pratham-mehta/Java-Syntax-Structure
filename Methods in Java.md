@@ -25,4 +25,25 @@ public static void main(String[] args){
 - **Access modifiers** indicate who is allowed access to use this method.
 - **Public** means any code from any class can use this method. 
 - Having an access modifier is not required
-- 
+
+
+---
+
+- After the method's header comes the method body
+![image](https://user-images.githubusercontent.com/63767834/214608375-5b1c3ef4-aeb1-404f-8650-96906af27d00.png)
+
+- Method's body starts after the set of curly braces
+```java
+{
+// Method's Body
+//
+//
+}
+```
+
+- The body consists of zero or more statements that are to be executed, when the method is called
+- If the method has specifies the a return type as anything as void, the method must include a return statement.
+![image](https://user-images.githubusercontent.com/63767834/214612281-a6303b31-756d-4e4f-a3fc-494a286f328f.png)
+
+
+- The return statement will return a value which matches the return type specified in the header.
